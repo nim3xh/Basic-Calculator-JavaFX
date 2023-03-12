@@ -6,4 +6,5 @@ Built with JavaFX, this calculator is highly responsive and offers lightning-fas
 I'm proud to have created this basic calculator and to have made it available for anyone to use and contribute to. Check out my GitHub repository to download the code and start exploring!
 
 <h3>GUI</h2><br>
+<img src="https://user-images.githubusercontent.com/105283769/224554274-224c19a9-2b10-4f95-93d0-acd15ae2c825.png">
 
